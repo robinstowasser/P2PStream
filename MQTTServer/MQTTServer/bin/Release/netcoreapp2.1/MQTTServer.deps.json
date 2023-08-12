@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da38e369f33f3d678f910b6d624d12b50b7c2464"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MQTTServer/1.0.0": {
+        "dependencies": {
+          "GnatMQ_Broker": "1.2.0"
+        },
+        "runtime": {
+          "MQTTServer.dll": {}
+        }
+      },
+      "GnatMQ_Broker/1.2.0": {
+        "runtime": {
+          "lib/net45/GnatMQ.Net.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MQTTServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GnatMQ_Broker/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p7fLjBmm7LCviv1NtHDOkd/OoaU2x7ryErLyypIHjJxH3Ur0UK3vr6iUn9NOHvp6x4vkGNAhC5XKBoWQ6hKQAg==",
+      "path": "gnatmq_broker/1.2.0",
+      "hashPath": "gnatmq_broker.1.2.0.nupkg.sha512"
+    }
+  }
+}

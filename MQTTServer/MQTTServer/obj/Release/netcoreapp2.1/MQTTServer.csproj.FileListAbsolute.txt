@@ -1,0 +1,10 @@
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\bin\Release\netcoreapp2.1\MQTTServer.deps.json
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\bin\Release\netcoreapp2.1\MQTTServer.runtimeconfig.json
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\bin\Release\netcoreapp2.1\MQTTServer.runtimeconfig.dev.json
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\bin\Release\netcoreapp2.1\MQTTServer.dll
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\bin\Release\netcoreapp2.1\MQTTServer.pdb
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\obj\Release\netcoreapp2.1\MQTTServer.csproj.CoreCompileInputs.cache
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\obj\Release\netcoreapp2.1\MQTTServer.AssemblyInfoInputs.cache
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\obj\Release\netcoreapp2.1\MQTTServer.AssemblyInfo.cs
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\obj\Release\netcoreapp2.1\MQTTServer.dll
+E:\Work\UDP-FileTransfer\proj\MQTTServer\MQTTServer\obj\Release\netcoreapp2.1\MQTTServer.pdb
